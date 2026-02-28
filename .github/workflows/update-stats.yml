@@ -30,7 +30,8 @@ jobs:
         env:
           # STATS_TOKEN: Personal Access Token with 'repo' scope
           # Add it in: repo Settings → Secrets and variables → Actions → New repository secret
-          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+          # Note: GITHUB_TOKEN is reserved by GitHub Actions, so we use GH_TOKEN instead
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
 
           # GH_USERNAME: your GitHub username (non-sensitive)
           # Add it in: repo Settings → Secrets and variables → Actions → Variables tab

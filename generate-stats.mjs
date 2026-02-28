@@ -20,14 +20,14 @@ import { writeFileSync } from 'fs';
 
 // ─── Configuration ────────────────────────────────────────────────────────────
 
-const GITHUB_TOKEN    = process.env.GITHUB_TOKEN;
+const GITHUB_TOKEN    = process.env.GH_TOKEN;
 const GITHUB_USERNAME = process.env.GITHUB_USERNAME;
 const OUTPUT_FILE     = process.env.OUTPUT_FILE     ?? 'stats.svg';
 const TOP_N           = parseInt(process.env.TOP_N  ?? '10', 10);
 const INCLUDE_FORKS   = process.env.INCLUDE_FORKS   === 'true';
 
 if (!GITHUB_TOKEN) {
-  console.error('ERROR: GITHUB_TOKEN environment variable is required.');
+  console.error('ERROR: GH_TOKEN environment variable is required.');
   console.error('Create a PAT at https://github.com/settings/tokens with "repo" scope.');
   process.exit(1);
 }
