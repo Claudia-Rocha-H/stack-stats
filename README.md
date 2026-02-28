@@ -32,7 +32,7 @@ All behavior is controlled through environment variables. No config files are re
 |---|---|---|---|
 | `GITHUB_TOKEN` | Yes | — | Personal Access Token with `repo` scope |
 | `GITHUB_USERNAME` | Yes | — | GitHub username whose repos are fetched |
-| `TOP_N` | No | `10` | Number of languages to display |
+| `TOP_N` | No | `10` | Number of languages to display (workflow uses `12`) |
 | `INCLUDE_FORKS` | No | `false` | Set to `true` to include forked repos |
 | `OUTPUT_FILE` | No | `stats.svg` | Output file path |
 

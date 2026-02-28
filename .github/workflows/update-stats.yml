@@ -39,7 +39,7 @@ jobs:
           GITHUB_USERNAME: ${{ vars.GH_USERNAME }}
 
           OUTPUT_FILE: stats.svg
-          TOP_N: '10'
+          TOP_N: '12'
           INCLUDE_FORKS: 'false'
         run: node generate-stats.mjs
 
