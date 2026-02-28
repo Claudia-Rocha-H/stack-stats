@@ -33,7 +33,7 @@
   <rect x="20" y="52" width="455" height="10" rx="5" fill="#21262d" />
 
   <!-- Stacked bar segments (clipped to rounded track) -->
-  <!-- TS 40%  JS 22%  Solidity 10%  Shell 8%  CSS 5%  HTML 5%  Python 3%  Dockerfile 2%  YAML 2%  Astro 1.5%  HCL 1%  Makefile 0.5% -->
+  <!-- TS 40% JS 22% Solidity 10% Shell 8% CSS 5% HTML 5% Python 3% Dockerfile 2% YAML 2% Astro 1.5% HCL 1% Makefile 0.5% (12 languages) -->
   <g clip-path="url(#bar-clip)">
     <rect x="20.00"  y="52" width="182.00" height="10" fill="#3178c6" />
     <rect x="202.00" y="52" width="100.10" height="10" fill="#f1e05a" />

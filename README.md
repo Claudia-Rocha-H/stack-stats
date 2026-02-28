@@ -10,7 +10,7 @@
 <i>Self-hosted GitHub Action that generates a language stats SVG card from all your repositories — public and private — with no third-party servers or npm dependencies.</i>
 
 <div align="center">
-    <img src="preview.svg" alt="stack-stats preview" width="100%" />
+    <img src="preview.svg" alt="stack-stats preview" width="495" />
 </div>
 
 ## Measurement Model
