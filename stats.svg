@@ -2,9 +2,9 @@
   width="495" height="184"
   viewBox="0 0 495 184"
   role="img"
-  aria-label="Top programming languages for CallejaJ">
+  aria-label="Top programming languages for Claudia-Rocha-H">
 
-  <title>Top Languages – CallejaJ</title>
+  <title>Top Languages – Claudia-Rocha-H</title>
 
   <style>
     .card      { fill: #161b22; stroke: #30363d; stroke-width: 1; }
@@ -35,80 +35,80 @@
 
   <!-- Stacked bar segments (clipped to rounded track) -->
   <g clip-path="url(#bar-clip)">
-    <rect x="20.00" y="52" width="365.21" height="10" fill="#3178c6" />
-    <rect x="385.21" y="52" width="58.01" height="10" fill="#f1e05a" />
-    <rect x="443.23" y="52" width="12.75" height="10" fill="#ff5a03" />
-    <rect x="455.98" y="52" width="10.24" height="10" fill="#563d7c" />
-    <rect x="466.21" y="52" width="3.74" height="10" fill="#e34c26" />
-    <rect x="469.95" y="52" width="2.00" height="10" fill="#AA6746" />
-    <rect x="471.95" y="52" width="2.00" height="10" fill="#3572A5" />
-    <rect x="473.95" y="52" width="2.00" height="10" fill="#844FBA" />
-    <rect x="475.95" y="52" width="2.00" height="10" fill="#b07219" />
-    <rect x="477.95" y="52" width="2.00" height="10" fill="#8b949e" />
-    <rect x="479.95" y="52" width="2.00" height="10" fill="#89e051" />
-    <rect x="481.95" y="52" width="2.00" height="10" fill="#384d54" />
+    <rect x="20.00" y="52" width="370.08" height="10" fill="#3572A5" />
+    <rect x="390.08" y="52" width="57.73" height="10" fill="#f34b7d" />
+    <rect x="447.81" y="52" width="12.86" height="10" fill="#8b949e" />
+    <rect x="460.67" y="52" width="5.50" height="10" fill="#8b949e" />
+    <rect x="466.17" y="52" width="5.13" height="10" fill="#555555" />
+    <rect x="471.30" y="52" width="2.00" height="10" fill="#3178c6" />
+    <rect x="473.30" y="52" width="2.00" height="10" fill="#A97BFF" />
+    <rect x="475.30" y="52" width="2.00" height="10" fill="#b07219" />
+    <rect x="477.30" y="52" width="2.00" height="10" fill="#8b949e" />
+    <rect x="479.30" y="52" width="2.00" height="10" fill="#f1e05a" />
+    <rect x="481.30" y="52" width="2.00" height="10" fill="#8b949e" />
+    <rect x="483.30" y="52" width="2.00" height="10" fill="#563d7c" />
   </g>
 
   <!-- Legend -->
   
     <g transform="translate(20, 76)">
-      <circle cx="5" cy="5" r="5" fill="#3178c6" />
-      <text x="14" y="9" class="lang-name">TypeScript</text>
-      <text x="14" y="9" class="lang-pct" dx="72">80.27%</text>
-    </g>
-    <g transform="translate(171.66666666666666, 76)">
-      <circle cx="5" cy="5" r="5" fill="#f1e05a" />
-      <text x="14" y="9" class="lang-name">JavaScript</text>
-      <text x="14" y="9" class="lang-pct" dx="72">12.75%</text>
-    </g>
-    <g transform="translate(323.3333333333333, 76)">
-      <circle cx="5" cy="5" r="5" fill="#ff5a03" />
-      <text x="14" y="9" class="lang-name">Astro</text>
-      <text x="14" y="9" class="lang-pct" dx="36">2.80%</text>
-    </g>
-    <g transform="translate(20, 98)">
-      <circle cx="5" cy="5" r="5" fill="#563d7c" />
-      <text x="14" y="9" class="lang-name">CSS</text>
-      <text x="14" y="9" class="lang-pct" dx="21.6">2.25%</text>
-    </g>
-    <g transform="translate(171.66666666666666, 98)">
-      <circle cx="5" cy="5" r="5" fill="#e34c26" />
-      <text x="14" y="9" class="lang-name">HTML</text>
-      <text x="14" y="9" class="lang-pct" dx="28.8">0.82%</text>
-    </g>
-    <g transform="translate(323.3333333333333, 98)">
-      <circle cx="5" cy="5" r="5" fill="#AA6746" />
-      <text x="14" y="9" class="lang-name">Solidity</text>
-      <text x="14" y="9" class="lang-pct" dx="57.6">0.33%</text>
-    </g>
-    <g transform="translate(20, 120)">
       <circle cx="5" cy="5" r="5" fill="#3572A5" />
       <text x="14" y="9" class="lang-name">Python</text>
+      <text x="14" y="9" class="lang-pct" dx="43.2">81.34%</text>
+    </g>
+    <g transform="translate(171.66666666666666, 76)">
+      <circle cx="5" cy="5" r="5" fill="#f34b7d" />
+      <text x="14" y="9" class="lang-name">C++</text>
+      <text x="14" y="9" class="lang-pct" dx="21.6">12.69%</text>
+    </g>
+    <g transform="translate(323.3333333333333, 76)">
+      <circle cx="5" cy="5" r="5" fill="#8b949e" />
+      <text x="14" y="9" class="lang-name">Cython</text>
+      <text x="14" y="9" class="lang-pct" dx="43.2">2.83%</text>
+    </g>
+    <g transform="translate(20, 98)">
+      <circle cx="5" cy="5" r="5" fill="#8b949e" />
+      <text x="14" y="9" class="lang-name">Jupyter Notebook</text>
+      <text x="14" y="9" class="lang-pct" dx="111.66666666666666">1.21%</text>
+    </g>
+    <g transform="translate(171.66666666666666, 98)">
+      <circle cx="5" cy="5" r="5" fill="#555555" />
+      <text x="14" y="9" class="lang-name">C</text>
+      <text x="14" y="9" class="lang-pct" dx="7.2">1.13%</text>
+    </g>
+    <g transform="translate(323.3333333333333, 98)">
+      <circle cx="5" cy="5" r="5" fill="#3178c6" />
+      <text x="14" y="9" class="lang-name">TypeScript</text>
+      <text x="14" y="9" class="lang-pct" dx="72">0.26%</text>
+    </g>
+    <g transform="translate(20, 120)">
+      <circle cx="5" cy="5" r="5" fill="#A97BFF" />
+      <text x="14" y="9" class="lang-name">Kotlin</text>
       <text x="14" y="9" class="lang-pct" dx="43.2">0.25%</text>
     </g>
     <g transform="translate(171.66666666666666, 120)">
-      <circle cx="5" cy="5" r="5" fill="#844FBA" />
-      <text x="14" y="9" class="lang-name">HCL</text>
-      <text x="14" y="9" class="lang-pct" dx="21.6">0.22%</text>
-    </g>
-    <g transform="translate(323.3333333333333, 120)">
       <circle cx="5" cy="5" r="5" fill="#b07219" />
       <text x="14" y="9" class="lang-name">Java</text>
-      <text x="14" y="9" class="lang-pct" dx="28.8">0.14%</text>
+      <text x="14" y="9" class="lang-pct" dx="28.8">0.11%</text>
+    </g>
+    <g transform="translate(323.3333333333333, 120)">
+      <circle cx="5" cy="5" r="5" fill="#8b949e" />
+      <text x="14" y="9" class="lang-name">Fortran</text>
+      <text x="14" y="9" class="lang-pct" dx="50.4">0.07%</text>
     </g>
     <g transform="translate(20, 142)">
-      <circle cx="5" cy="5" r="5" fill="#8b949e" />
-      <text x="14" y="9" class="lang-name">PLpgSQL</text>
-      <text x="14" y="9" class="lang-pct" dx="50.4">0.11%</text>
+      <circle cx="5" cy="5" r="5" fill="#f1e05a" />
+      <text x="14" y="9" class="lang-name">JavaScript</text>
+      <text x="14" y="9" class="lang-pct" dx="72">0.06%</text>
     </g>
     <g transform="translate(171.66666666666666, 142)">
-      <circle cx="5" cy="5" r="5" fill="#89e051" />
-      <text x="14" y="9" class="lang-name">Shell</text>
-      <text x="14" y="9" class="lang-pct" dx="36">0.05%</text>
+      <circle cx="5" cy="5" r="5" fill="#8b949e" />
+      <text x="14" y="9" class="lang-name">PowerShell</text>
+      <text x="14" y="9" class="lang-pct" dx="72">0.04%</text>
     </g>
     <g transform="translate(323.3333333333333, 142)">
-      <circle cx="5" cy="5" r="5" fill="#384d54" />
-      <text x="14" y="9" class="lang-name">Dockerfile</text>
-      <text x="14" y="9" class="lang-pct" dx="72">0.00%</text>
+      <circle cx="5" cy="5" r="5" fill="#563d7c" />
+      <text x="14" y="9" class="lang-name">CSS</text>
+      <text x="14" y="9" class="lang-pct" dx="21.6">0.02%</text>
     </g>
 </svg>
