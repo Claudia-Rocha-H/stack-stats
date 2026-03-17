@@ -28,25 +28,25 @@
   <text x="20" y="30" class="title">⚡ Languages Used</text>
 
   <!-- Last updated -->
-  <text x="475" y="30" class="updated" text-anchor="end">Updated Mar 16, 2026</text>
+  <text x="475" y="30" class="updated" text-anchor="end">Updated Mar 17, 2026</text>
 
   <!-- Stacked bar background track -->
   <rect x="20" y="52" width="455" height="10" rx="5" fill="#21262d" />
 
   <!-- Stacked bar segments (clipped to rounded track) -->
   <g clip-path="url(#bar-clip)">
-    <rect x="20.00" y="52" width="370.07" height="10" fill="#3572A5" />
-    <rect x="390.07" y="52" width="57.73" height="10" fill="#f34b7d" />
-    <rect x="447.80" y="52" width="12.86" height="10" fill="#8b949e" />
-    <rect x="460.66" y="52" width="5.50" height="10" fill="#8b949e" />
-    <rect x="466.15" y="52" width="5.13" height="10" fill="#555555" />
-    <rect x="471.29" y="52" width="2.00" height="10" fill="#3178c6" />
-    <rect x="473.29" y="52" width="2.00" height="10" fill="#A97BFF" />
-    <rect x="475.29" y="52" width="2.00" height="10" fill="#b07219" />
-    <rect x="477.29" y="52" width="2.00" height="10" fill="#8b949e" />
-    <rect x="479.29" y="52" width="2.00" height="10" fill="#f1e05a" />
-    <rect x="481.29" y="52" width="2.00" height="10" fill="#8b949e" />
-    <rect x="483.29" y="52" width="2.00" height="10" fill="#563d7c" />
+    <rect x="20.00" y="52" width="370.05" height="10" fill="#3572A5" />
+    <rect x="390.05" y="52" width="57.73" height="10" fill="#f34b7d" />
+    <rect x="447.78" y="52" width="12.86" height="10" fill="#8b949e" />
+    <rect x="460.64" y="52" width="5.50" height="10" fill="#8b949e" />
+    <rect x="466.14" y="52" width="5.13" height="10" fill="#555555" />
+    <rect x="471.27" y="52" width="2.00" height="10" fill="#3178c6" />
+    <rect x="473.27" y="52" width="2.00" height="10" fill="#A97BFF" />
+    <rect x="475.27" y="52" width="2.00" height="10" fill="#b07219" />
+    <rect x="477.27" y="52" width="2.00" height="10" fill="#8b949e" />
+    <rect x="479.27" y="52" width="2.00" height="10" fill="#f1e05a" />
+    <rect x="481.27" y="52" width="2.00" height="10" fill="#8b949e" />
+    <rect x="483.27" y="52" width="2.00" height="10" fill="#563d7c" />
   </g>
 
   <!-- Legend -->
@@ -89,7 +89,7 @@
     <g transform="translate(171.66666666666666, 120)">
       <circle cx="5" cy="5" r="5" fill="#b07219" />
       <text x="14" y="9" class="lang-name">Java</text>
-      <text x="14" y="9" class="lang-pct" dx="28.8">0.11%</text>
+      <text x="14" y="9" class="lang-pct" dx="28.8">0.12%</text>
     </g>
     <g transform="translate(323.3333333333333, 120)">
       <circle cx="5" cy="5" r="5" fill="#8b949e" />
